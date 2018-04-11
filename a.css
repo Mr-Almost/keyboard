@@ -32,12 +32,13 @@ body{background: grey url(./wall.png) no-repeat center center; }
     position: relative; 
    /* padding: 25px 30px;
     margin:8px 8px;*/
-    width:70px;
-    height:70px; 
+    width:60px;
+    height:60px; 
     font-size:26px;
     font-family:Arial, Helvetica, sans-serif;
     border-radius: 10px;
     background:#000000;
+
     color: #FFFFFF;
     margin:8px;
     display: inline-flex;
@@ -60,6 +61,7 @@ kbd > button{
     bottom: 0; 
     display: none; 
     size:2px;
+
 }
 kbd:hover > button{
     display:inline-block;
